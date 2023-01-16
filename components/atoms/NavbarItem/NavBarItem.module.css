@@ -1,0 +1,15 @@
+.NavBarItem{
+    color: black;
+    display: inline;
+    margin: 1rem;
+
+}
+
+.NavAnchor {
+    color: black;
+    text-decoration: none;
+}
+ 
+.NavAnchor:hover{
+    text-decoration: underline;
+}
